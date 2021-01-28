@@ -152,7 +152,7 @@ class NodoColumna(val columna: Int) {
 
 }
 
-fun multiplicar(matrizA: MatrizDispersa, matrizB: MatrizDispersa): MatrizDispersa{
+fun multiplicar(matrizA: MatrizDispersa, matrizB: MatrizDispersa): MatrizDispersa {
     val result = MatrizDispersa()
 
     //apunta a cada valor de la matriz a
